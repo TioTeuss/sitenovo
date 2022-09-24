@@ -5,18 +5,10 @@ body {
   background-color: #000000;
   font-family: "Rubik", sans-serif;
   color: #e0e1dd;
-  /* background-image: url("https://media.discordapp.net/attachments/889024408226758666/889044707181723678/unknown.png");
+   background-image: url("https://media.discordapp.net/attachments/889024408226758666/889044707181723678/unknown.png");
   background-repeat: repeat;
   background-position: center;
-  background-position-y: -10%; */
-   /* background: url("https://media.discordapp.net/attachments/889024408226758666/889044707181723678/unknown.png")*/
-    bottom center scroll;
-  background-color: black;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  background-size: contain;
-  -o-background-size: contain;
-}
+  background-position-y: -10%; 
 
 .main {
   position: fixed;
